@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 17px/1.6 system-ui, sans-serif; background: Canvas; color: CanvasText; }
+main, footer { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1rem; }
+h1 { line-height: 1.2; }
+footer { border-top: 1px solid GrayText; font-size: 0.9rem; }
+a { color: LinkText; }
